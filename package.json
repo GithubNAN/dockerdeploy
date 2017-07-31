@@ -10,8 +10,7 @@
     "nodemon": "^1.9.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0";
-    "start": "npm version"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
   "author": "",
